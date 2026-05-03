@@ -1,6 +1,6 @@
 ## Hi there I m Shruti👋
 
-#💫 About Me:
+# 💫 About Me:
 I’m a B.Tech student in Electronics and Communication Engineering with a strong interest in Full-Stack Development and AI-powered systems.<br>I’ve worked on projects ranging from real-time chat applications to AI-driven dashboards and price comparison platforms, using technologies like React, Node.js, FastAPI, and Docker.
 
 
