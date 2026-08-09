@@ -8,7 +8,7 @@
 <h1 align="center">Hi there I m Shruti👋</h1>
 <p align="center">
   <img
-    src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=17&pause=1200&color=7C82A8&center=true&vCenter=true&width=900&lines=B.Tech+student+in+Electronics+and+Communication+Engineering;interested+in+Full-Stack+Development+%26+AI-powered+systems;probably+fixing+the+bug+I+created+5+minutes+ago+%F0%9F%90%9B"
+    src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=17&pause=1100&color=7C82A8&center=true&vCenter=true&width=760&lines=studying+ECE%2C+shipping+software+%E2%9A%A1;probably+fixing+the+bug+I+created+5+minutes+ago+%F0%9F%90%9B;LeetCode+streak+%3E+sleep+schedule+%F0%9F%A7%A0"
     alt="Typing SVG"
   />
 </p>
