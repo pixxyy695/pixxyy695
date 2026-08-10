@@ -44,7 +44,7 @@
 <h3 align="center">Database & DevOps</h3>
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=mongodb,redis,docker" />
+  <img src="https://skillicons.dev/icons?i=mongodb,redis,docker,postgresql" />
 </p>
 
 ---
